@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slist
 - 👀 I’m interested in Linux and K8s
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently Linux & K8s Technical Marketing Architect
 - 💞️ I’m looking to collaborate on K8s security
 - 📫 How to reach me : slist at vmware dot com
 

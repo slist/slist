@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @slist
-- 👀 I’m interested in Linux and K8s
-- 🌱 I’m currently Linux & K8s Technical Marketing Architect
-- 💞️ I’m looking to collaborate on K8s security
-- 📫 How to reach me : slist at carbonblack dot com
+- 👀 I’m interested in Linux and Kubernetes
+- 🌱 I’m currently a Linux & Kubernetes Technical Marketing Architect
+- 💞️ I’m looking to collaborate on Kubernetes security
+- 📫 How to reach me : stephane dot list at broadcom dot com
 
 <!---
 slist/slist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
